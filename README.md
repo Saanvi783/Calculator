@@ -30,7 +30,7 @@ This project demonstrates basic DOM manipulation, styling, and arithmetic operat
 
 ```text
 simple-calculator/
-└── calculator.html
+└── index.html
 ```
 
 ---
